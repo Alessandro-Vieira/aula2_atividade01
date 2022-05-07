@@ -1,0 +1,8 @@
+C:\Users\profi\source\repos\AulaRepeticao1\bin\Debug\AulaRepeticao1.exe.config
+C:\Users\profi\source\repos\AulaRepeticao1\bin\Debug\AulaRepeticao1.exe
+C:\Users\profi\source\repos\AulaRepeticao1\bin\Debug\AulaRepeticao1.pdb
+C:\Users\profi\source\repos\AulaRepeticao1\obj\Debug\AulaRepeticao1.csproj.AssemblyReference.cache
+C:\Users\profi\source\repos\AulaRepeticao1\obj\Debug\AulaRepeticao1.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\source\repos\AulaRepeticao1\obj\Debug\AulaRepeticao1.csproj.CoreCompileInputs.cache
+C:\Users\profi\source\repos\AulaRepeticao1\obj\Debug\AulaRepeticao1.exe
+C:\Users\profi\source\repos\AulaRepeticao1\obj\Debug\AulaRepeticao1.pdb
